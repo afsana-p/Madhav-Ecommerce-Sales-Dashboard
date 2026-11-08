@@ -5,9 +5,6 @@ Power BI dashboard analysing e-commerce sales, profit and customer behaviour by 
 
 An interactive Power BI dashboard that analyses e-commerce sales performance across states, product categories and payment modes.
 
-##  Dashboard Preview
-![Dashboard](Madhav Ecommerce Sales Dashboard .jpg)
-
 ## Objective
 Help the business see what drives sales and profit, and which states, products and customers perform best.
 
